@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="todo">TODO</string>
+    <string name="name">name</string>
+    <string name="edittext">editTextTextPersonName3</string>
+    <string name="string_edit" />
+    <string name="name21">Name</string>
+    <string name="btn">+</string>
+    <string name="edit1">edit1</string>
+    <string name="edit2">edit2</string>
+    <string name="textview">TextView</string>
+    <string name="name1">Name</string>
+    <string name="edit3">edit3</string>
+    <string name="edit4">edit4</string>
+    <string name="button">Button</string>
+    <string name="save">Save</string>
+    <string name="edit">edit</string>
+    <string name="edit_heading">Edit heading</string>
+    <string name="edit_content_here">Edit Content Here</string>
+    <string name="write_heading">Write Heading</string>
+    <string name="write_content_here">Write Content here</string>
+    <string name="color_1">Color 1</string>
+    <string name="color_2">Color 2</string>
+    <string name="color_4">Color 4</string>
+    <string name="color_3">Color 3</string>
+    <string name="color_5">Color 5</string>
+    <string name="color_6">Color 6</string>
+</resources>
